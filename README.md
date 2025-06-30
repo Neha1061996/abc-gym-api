@@ -12,9 +12,11 @@ A lightweight Node.js + Express API to manage fitness classes and bookings for g
 
 ### ▶️ Installation & Running Locally
 
-1. Extract the zip file.
-2. Open the terminal and navigate to the project directory.
-3. Run the following commands:
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Neha1061996/abc-gym-api.git
+cd abc-gym-api
 
 ```bash
 npm install
